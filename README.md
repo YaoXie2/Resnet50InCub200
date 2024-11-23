@@ -130,5 +130,3 @@ SGD的劣势
 ## (6) 输出网络中的参数的方法
 [model.parameters()与model.state_dict()](https://zhuanlan.zhihu.com/p/270344655)
 [pretrain数据与导入之后的数据产生差别的原因](https://blog.csdn.net/qq_34132310/article/details/107384294)
-
-**最后附上本人复现resnet50的github链接**[Resnet50InCub200](https://github.com/YaoXie2/Resnet50InCub200)
