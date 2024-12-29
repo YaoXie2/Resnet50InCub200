@@ -18,6 +18,9 @@ for i in range(100):
 for j in range(100):
     print('xxxxxxxxxxx')
 
+for k in range(3):
+    print(f'aaaaa')
+
 def main():
     # device = torch.device("cuda:0,cuda:1" if torch.cuda.is_available() else "cpu")
     device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
