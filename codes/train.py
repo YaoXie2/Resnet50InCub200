@@ -10,6 +10,8 @@ from tqdm import tqdm
 # from model import resnet50
 import matplotlib.pyplot as plt
 
+plt.rcParams['font.sans-serif'] = ['SimHei']
+
 
 def main():
     # device = torch.device("cuda:0,cuda:1" if torch.cuda.is_available() else "cpu")
