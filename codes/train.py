@@ -10,19 +10,6 @@ from tqdm import tqdm
 # from model import resnet50
 import matplotlib.pyplot as plt
 
-print('start... hello world')
-
-for i in range(100):
-    print(i)
-    
-for j in range(100):
-    print('xxxxxxxxxxx')
-
-for l in range(999):
-    print('bbbbbb')
-    
-for k in range(3):
-    print(f'aaaaa')
 
 def main():
     # device = torch.device("cuda:0,cuda:1" if torch.cuda.is_available() else "cpu")
