@@ -10,6 +10,8 @@ from tqdm import tqdm
 # from model import resnet50
 import matplotlib.pyplot as plt
 
+print('start... hello world')
+
 def main():
     # device = torch.device("cuda:0,cuda:1" if torch.cuda.is_available() else "cpu")
     device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
